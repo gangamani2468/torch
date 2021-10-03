@@ -1,5 +1,6 @@
 # torch
 Torch light
+Str sum a,b,c,d,e;
  Cout>> Sum a,b,c,d,e;
  Cin<< a,b,c,d,e;
  Cout>>Avg=Sum/5;
